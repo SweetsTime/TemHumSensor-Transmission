@@ -1,0 +1,47 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=-1935851234
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Count=0
+[ChipconEmu]
+Stop timers on halt=1
+Leave target running=1
+[Aliases]
+A0=_ "C:\Users\92185\Desktop\比较\赛题代码\9.温湿度传感器传输实验\Projects\zstack\ZMain\TI2530DB\ZMain.c" ""
+A1=_ "C:\Users\cgf\Desktop\2.Z-stack实验-20200312\02-ZStack实验例程\Z-Stack协议栈开发实验\9.温湿度传感器传输实验\Projects\zstack\ZMain\TI2530DB\ZMain.c" ""
+A2=_ "F:\开发部文档\1、协议栈实验完善温湿度和红外对射传感器\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\ZMain\TI2530DB\ZMain.c" ""
+Count=3
+SuppressDialog=1
