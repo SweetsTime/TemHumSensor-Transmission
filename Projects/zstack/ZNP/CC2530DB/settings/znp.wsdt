@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>znp/CC2530ZNP</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>177</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+    </Static>
+    <Windows>
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-6942-4763</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>znp</ExpandedNode><ExpandedNode>znp/App</ExpandedNode><ExpandedNode>znp/HAL</ExpandedNode><ExpandedNode>znp/Output</ExpandedNode><ExpandedNode>znp/Tools</ExpandedNode><ExpandedNode>znp/ZMain</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\OSAL_ZNP.c</Filename><XPos>0</XPos><YPos>84</YPos><SelStart>2494</SelStart><SelEnd>2494</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\znp_app.c</Filename><XPos>0</XPos><YPos>517</YPos><SelStart>22324</SelStart><SelEnd>22324</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\znp_spi.c</Filename><XPos>0</XPos><YPos>105</YPos><SelStart>5022</SelStart><SelEnd>5022</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\ZMain\TI2530ZNP\ZMain.c</Filename><XPos>0</XPos><YPos>184</YPos><SelStart>5694</SelStart><SelEnd>5694</SelEnd></Tab><ActiveTab>3</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\ZMain\TI2530ZNP\OnBoard.c</Filename><XPos>0</XPos><YPos>12</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\services\saddr\saddr.c</Filename><XPos>0</XPos><YPos>189</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\zmac\f8w\zmac.c</Filename><XPos>0</XPos><YPos>567</YPos><SelStart>11795</SelStart><SelEnd>11795</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\stack\zdo\ZDApp.c</Filename><XPos>0</XPos><YPos>99</YPos><SelStart>1851</SelStart><SelEnd>1851</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\stack\nwk\stub_aps.c</Filename><XPos>0</XPos><YPos>285</YPos><SelStart>3063</SelStart><SelEnd>3063</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\hal\common\hal_assert.c</Filename><XPos>0</XPos><YPos>285</YPos><SelStart>1498</SelStart><SelEnd>1498</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\hal\common\hal_drivers.c</Filename><XPos>0</XPos><YPos>120</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-05fd20a8><key>iaridepm.enu1</key></Toolbar-05fd20a8></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>314</Bottom><Right>268</Right><x>-2</x><y>-2</y><xscreen>270</xscreen><yscreen>285</yscreen><sizeHorzCX>197080</sizeHorzCX><sizeHorzCY>422222</sizeHorzCY><sizeVertCX>197080</sizeVertCX><sizeVertCY>936296</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes/></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
